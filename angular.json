@@ -55,7 +55,9 @@
                   "with": "src/environments/environment.prod.ts"
                 }
               ],
-              "outputHashing": "all"
+              "outputHashing": "all",
+              "baseHref": "https://sidp919.github.io/ToDoList-AngularApp/",
+              "deployUrl": "https://sidp919.github.io/ToDoList-AngularApp/"
             },
             "development": {
               "buildOptimizer": false,
